@@ -43,6 +43,13 @@ $ python3 xmlrpc-bruteforce.py -u [username] -w [wordlist] -x [xmlrpc_intf] -t [
 [-h]: print help
 ```
 
+## Dorks for finding potential targets
+
+`inurl:"/xmlrpc.php?rsd" + scoping restrictions`
+`intitle:"WordPress"`
+`inurl:"readme.html" + scoping restrictions = general wordpress detection`
+`allinurl:"wp-content/plugins/" + scoping restrictions = general wordpress detection`
+
 ## Dependencies
 ### Third-party libraries
 #### colorama 0.3.7:

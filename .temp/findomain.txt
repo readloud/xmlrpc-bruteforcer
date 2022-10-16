@@ -1,0 +1,15 @@
+
+fs.blog
+Good luck Hax0r 💀!
+Job finished in 8 seconds.
+lc.fs.blog
+Searching in the AnubisDB API... 🔍
+Searching in the Archive.org API... 🔍
+Searching in the CertSpotter API... 🔍
+Searching in the Crtsh database API... 🔍
+Searching in the Sublist3r API... 🔍
+Searching in the Threatcrowd API... 🔍
+Searching in the Threatminer API... 🔍
+Searching in the Urlscan.io API... 🔍
+Target ==> fs.blog
+www.fs.blog
